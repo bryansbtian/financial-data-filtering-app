@@ -16,7 +16,7 @@ This project is a React-based web application that allows users to view and filt
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/financial-data-filtering-app.git
+   git clone https://github.com/bryansbtian/financial-data-filtering-app.git
    cd financial-data-filtering-app
 2. **Install dependencies**: Ensure you have Node.js installed on your machine. Then, run:
    ```bash
