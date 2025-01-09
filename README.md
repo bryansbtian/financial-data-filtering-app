@@ -27,7 +27,7 @@ This project is a React-based web application that allows users to view and filt
    npm start
 
 ## Link to Deployed App:  
-[Deployed App]([https://www.bryansusanto.com/](https://financial-data-filtering-app-khaki.vercel.app/))
+[Deployed App]([https://financial-data-filtering-app-khaki.vercel.app/])
 
 ## Technologies Used
 - React
